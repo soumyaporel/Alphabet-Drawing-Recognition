@@ -1,7 +1,7 @@
 # Alphabet-Drawing-Recognition
 
-Provides interface for drawing an uppercase english alphabet.
-The drawing is fed to a CNN (Convolutional Neural Network) model which predicts what alphabet is drawn.
+	Provides interface for drawing an uppercase english alphabet.
+	The drawing is fed to a CNN (Convolutional Neural Network) model which predicts what alphabet is drawn.
 
 
 ## STEPS FOR EXECUTION:
@@ -21,11 +21,11 @@ The drawing is fed to a CNN (Convolutional Neural Network) model which predicts 
 	
 
 ## DATASET LINK:
-https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format/download
+	https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format/download
 
 
 ## RESULTS:	
-10 fold cross validation accuracy of the model: 95.1%
+	10 fold cross validation accuracy of the model: 95.1%
 	
 ## SCREENSHOTS:
 ![alt text](https://github.com/soumyaporel/Alphabet-Drawing-Recognition/blob/main/screenshots/Screenshot%20from%202021-08-22%2013-00-11.png?raw=true)
