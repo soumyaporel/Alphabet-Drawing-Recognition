@@ -20,8 +20,9 @@
 		-> after a model is trained, save it in the directory './saved_models' to use it in 'recognizer.py' for prediction
 	
 
-## DATASET LINK:
-	https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format/download
+## DATASET INFO:
+	The dataset consists of 3,72,477 images of uppercase English letters and their corresponding labels.
+	LINK: https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format/download
 
 
 ## RESULTS:	
