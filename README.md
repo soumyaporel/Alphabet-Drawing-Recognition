@@ -1,6 +1,6 @@
 # Alphabet-Drawing-Recognition
 
-	Provides interface for drawing an uppercase english alphabet.
+	Provides interface for drawing uppercase english alphabet.
 	The drawing is fed to a CNN (Convolutional Neural Network) model which predicts what alphabet is drawn.
 
 
