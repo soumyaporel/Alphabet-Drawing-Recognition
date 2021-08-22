@@ -28,7 +28,7 @@ RESULTS:
 	10 fold cross validation accuracy of the model: 95.1%
 	
 # SCREENSHOTS:
-	![alt text](https://github.com/soumyaporel/Alphabet-Drawing-Recognition/blob/main/screenshots/Screenshot%20from%202021-08-22%2013-00-11.png?raw=true)
-	![alt text](https://github.com/soumyaporel/Alphabet-Drawing-Recognition/blob/main/screenshots/Screenshot%20from%202021-08-22%2013-00-33.png?raw=true)
-	![alt text](https://github.com/soumyaporel/Alphabet-Drawing-Recognition/blob/main/screenshots/Screenshot%20from%202021-08-22%2013-00-41.png?raw=true)
+![alt text](https://github.com/soumyaporel/Alphabet-Drawing-Recognition/blob/main/screenshots/Screenshot%20from%202021-08-22%2013-00-11.png?raw=true)
+![alt text](https://github.com/soumyaporel/Alphabet-Drawing-Recognition/blob/main/screenshots/Screenshot%20from%202021-08-22%2013-00-33.png?raw=true)
+![alt text](https://github.com/soumyaporel/Alphabet-Drawing-Recognition/blob/main/screenshots/Screenshot%20from%202021-08-22%2013-00-41.png?raw=true)
 	
